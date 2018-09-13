@@ -3,7 +3,7 @@
 ## What is it about?
 
 How To Implentment Array of Structure type in C Programing by reading File , and print out to console.
-With the fixed-array of 10, but you can change as many array as you Like depending your data-text
+With the fixed-array of 10, but you can change as many array as you Like depending your data-text.
 
 ----------------------------------------------------------------------------------------------------------
 
